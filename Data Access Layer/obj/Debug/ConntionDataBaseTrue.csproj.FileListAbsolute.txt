@@ -1,0 +1,6 @@
+D:\Wagdan\Bank Project\ConntionDataBaseTrue\bin\Debug\DataAccess.dll
+D:\Wagdan\Bank Project\ConntionDataBaseTrue\bin\Debug\DataAccess.pdb
+D:\Wagdan\Bank Project\ConntionDataBaseTrue\obj\Debug\ConntionDataBaseTrue.csproj.AssemblyReference.cache
+D:\Wagdan\Bank Project\ConntionDataBaseTrue\obj\Debug\ConntionDataBaseTrue.csproj.CoreCompileInputs.cache
+D:\Wagdan\Bank Project\ConntionDataBaseTrue\obj\Debug\DataAccess.dll
+D:\Wagdan\Bank Project\ConntionDataBaseTrue\obj\Debug\DataAccess.pdb

@@ -1,0 +1,63 @@
+D:\Projet Wagdan\bank projet\bin\Debug\bank projet.exe.config
+D:\Projet Wagdan\bank projet\bin\Debug\bank projet.exe
+D:\Projet Wagdan\bank projet\bin\Debug\bank projet.pdb
+D:\Projet Wagdan\bank projet\bin\Debug\CodingMain.dll
+D:\Projet Wagdan\bank projet\bin\Debug\ConntionDataBaseTrue.dll
+D:\Projet Wagdan\bank projet\bin\Debug\CodingMain.pdb
+D:\Projet Wagdan\bank projet\bin\Debug\ConntionDataBaseTrue.pdb
+D:\Projet Wagdan\bank projet\obj\Debug\bank projet.csproj.AssemblyReference.cache
+D:\Projet Wagdan\bank projet\obj\Debug\bank_projet.Clients_Transatctions.resources
+D:\Projet Wagdan\bank projet\obj\Debug\bank_projet.Form1.resources
+D:\Projet Wagdan\bank projet\obj\Debug\bank_projet.Home.resources
+D:\Projet Wagdan\bank projet\obj\Debug\bank_projet.Manger_Clients.resources
+D:\Projet Wagdan\bank projet\obj\Debug\bank_projet.Manger_Users.resources
+D:\Projet Wagdan\bank projet\obj\Debug\bank_projet.Properties.Resources.resources
+D:\Projet Wagdan\bank projet\obj\Debug\bank projet.csproj.GenerateResource.cache
+D:\Projet Wagdan\bank projet\obj\Debug\bank projet.csproj.CoreCompileInputs.cache
+D:\Projet Wagdan\bank projet\obj\Debug\bank pro.BC40FD72.Up2Date
+D:\Projet Wagdan\bank projet\obj\Debug\bank projet.exe
+D:\Projet Wagdan\bank projet\obj\Debug\bank projet.pdb
+D:\Projet Wagdan\bank projet\obj\Debug\bank_projet.DataLog.resources
+D:\Projet Wagdan\bank projet\obj\Debug\bank_projet.Contry.resources
+D:\Projet Wagdan\Bank Project\bank projet\bin\Debug\bank projet.exe.config
+D:\Projet Wagdan\Bank Project\bank projet\bin\Debug\bank projet.exe
+D:\Projet Wagdan\Bank Project\bank projet\bin\Debug\bank projet.pdb
+D:\Projet Wagdan\Bank Project\bank projet\bin\Debug\CodingMain.dll
+D:\Projet Wagdan\Bank Project\bank projet\bin\Debug\ConntionDataBaseTrue.dll
+D:\Projet Wagdan\Bank Project\bank projet\bin\Debug\CodingMain.pdb
+D:\Projet Wagdan\Bank Project\bank projet\bin\Debug\ConntionDataBaseTrue.pdb
+D:\Projet Wagdan\Bank Project\bank projet\obj\Debug\bank projet.csproj.AssemblyReference.cache
+D:\Projet Wagdan\Bank Project\bank projet\obj\Debug\bank_projet.Clients_Transatctions.resources
+D:\Projet Wagdan\Bank Project\bank projet\obj\Debug\bank_projet.Contry.resources
+D:\Projet Wagdan\Bank Project\bank projet\obj\Debug\bank_projet.DataLog.resources
+D:\Projet Wagdan\Bank Project\bank projet\obj\Debug\bank_projet.Form1.resources
+D:\Projet Wagdan\Bank Project\bank projet\obj\Debug\bank_projet.Home.resources
+D:\Projet Wagdan\Bank Project\bank projet\obj\Debug\bank_projet.Manger_Clients.resources
+D:\Projet Wagdan\Bank Project\bank projet\obj\Debug\bank_projet.Manger_Users.resources
+D:\Projet Wagdan\Bank Project\bank projet\obj\Debug\bank_projet.Properties.Resources.resources
+D:\Projet Wagdan\Bank Project\bank projet\obj\Debug\bank projet.csproj.GenerateResource.cache
+D:\Projet Wagdan\Bank Project\bank projet\obj\Debug\bank projet.csproj.CoreCompileInputs.cache
+D:\Projet Wagdan\Bank Project\bank projet\obj\Debug\bank pro.BC40FD72.Up2Date
+D:\Projet Wagdan\Bank Project\bank projet\obj\Debug\bank projet.exe
+D:\Projet Wagdan\Bank Project\bank projet\obj\Debug\bank projet.pdb
+D:\Wagdan\Bank Project\bank projet\obj\Debug\bank projet.csproj.AssemblyReference.cache
+D:\Wagdan\Bank Project\bank projet\obj\Debug\bank_projet.Properties.Resources.resources
+D:\Wagdan\Bank Project\bank projet\obj\Debug\bank projet.csproj.GenerateResource.cache
+D:\Wagdan\Bank Project\bank projet\obj\Debug\bank projet.csproj.CoreCompileInputs.cache
+D:\Wagdan\Bank Project\bank projet\obj\Debug\bank projet.exe
+D:\Wagdan\Bank Project\bank projet\obj\Debug\bank projet.pdb
+D:\Wagdan\Bank Project\bank projet\bin\Debug\bank projet.exe.config
+D:\Wagdan\Bank Project\bank projet\bin\Debug\bank projet.exe
+D:\Wagdan\Bank Project\bank projet\bin\Debug\bank projet.pdb
+D:\Wagdan\Bank Project\bank projet\bin\Debug\BusinessLogic.dll
+D:\Wagdan\Bank Project\bank projet\bin\Debug\DataAccess.dll
+D:\Wagdan\Bank Project\bank projet\bin\Debug\BusinessLogic.pdb
+D:\Wagdan\Bank Project\bank projet\bin\Debug\DataAccess.pdb
+D:\Wagdan\Bank Project\bank projet\obj\Debug\bank pro.BC40FD72.Up2Date
+D:\Wagdan\Bank Project\bank projet\obj\Debug\bank_projet.frmLogin.resources
+D:\Wagdan\Bank Project\bank projet\obj\Debug\bank_projet.frmServices.resources
+D:\Wagdan\Bank Project\bank projet\obj\Debug\bank_projet.frmMangerClients.resources
+D:\Wagdan\Bank Project\bank projet\obj\Debug\bank_projet.frmMangerUsers.resources
+D:\Wagdan\Bank Project\bank projet\obj\Debug\bank_projet.frmClientsTransatctions.resources
+D:\Wagdan\Bank Project\bank projet\obj\Debug\bank_projet.frmCurrencys.resources
+D:\Wagdan\Bank Project\bank projet\obj\Debug\bank_projet.frmDataLog.resources

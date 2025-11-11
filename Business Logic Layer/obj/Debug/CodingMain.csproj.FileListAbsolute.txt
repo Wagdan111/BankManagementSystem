@@ -1,0 +1,2 @@
+D:\Wagdan\Bank Project\Business Logic Layer\obj\Debug\CodingMain.csproj.AssemblyReference.cache
+D:\Wagdan\Bank Project\Business Logic Layer\obj\Debug\CodingMain.csproj.CoreCompileInputs.cache
