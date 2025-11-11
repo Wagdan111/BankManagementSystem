@@ -199,11 +199,5 @@ namespace bank_projet
             }
         }
 
-        private void btnGoBack_Click_1(object sender, EventArgs e)
-        {
-            Form frmServices = new frmServices();
-            frmServices.Show();
-            this.Close();
-        }
     }
 }

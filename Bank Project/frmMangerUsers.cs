@@ -17,12 +17,6 @@ namespace bank_projet
         {
             InitializeComponent();
         }
-        private void btnGoBack_Click(object sender, EventArgs e)
-        {
-            Form frmServices = new frmServices();
-            frmServices.Show();
-            this.Close();
-        }
 
         private void frmMangerUsers_Load(object sender, EventArgs e)
         {

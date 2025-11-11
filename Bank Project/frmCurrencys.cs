@@ -127,13 +127,6 @@ namespace bank_projet
             }
         }
 
-        private void btnGoBack_Click(object sender, EventArgs e)
-        {
-            Form frmServices = new frmServices();
-            frmServices.Show();
-            this.Close();
-        }
-
         private void btnConvert_Click(object sender, EventArgs e)
         {
            MessageBox.Show("This action has not been implemented yet.", "Warning", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);

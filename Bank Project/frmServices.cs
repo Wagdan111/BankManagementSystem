@@ -27,28 +27,25 @@ namespace bank_projet
         {
             Form frmMangerClients = new frmMangerClients();
             frmMangerClients.Show();
-            this.Close();
         }
 
         private void btnClientsTransction_Click(object sender, EventArgs e)
         {
             Form frmClientsTransatctions = new frmClientsTransatctions();
             frmClientsTransatctions.Show();
-            this.Hide();
         }
 
         private void btnCurrencyExchange_Click(object sender, EventArgs e)
         {
             Form frmCurrencys = new frmCurrencys();
             frmCurrencys.Show();
-            this.Close();
+
         }
 
         private void btnManageUsers_Click(object sender, EventArgs e)
         {
             Form frmMangerUsers = new frmMangerUsers();
             frmMangerUsers.Show();
-            this.Close();
         }
 
         private void frmServices_FormClosing(object sender, FormClosingEventArgs e)

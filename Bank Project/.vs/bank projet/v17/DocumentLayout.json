@@ -3,32 +3,56 @@
   "WorkspaceRootPath": "D:\\Wagdan\\Bank Project\\Bank Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DAC34C6D-F706-4DA2-94AE-4D3D1563406B}|bank projet.csproj|D:\\Wagdan\\Bank Project\\Bank Project\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAC34C6D-F706-4DA2-94AE-4D3D1563406B}|bank projet.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DAC34C6D-F706-4DA2-94AE-4D3D1563406B}|bank projet.csproj|D:\\Wagdan\\Bank Project\\Bank Project\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DAC34C6D-F706-4DA2-94AE-4D3D1563406B}|bank projet.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAC34C6D-F706-4DA2-94AE-4D3D1563406B}|bank projet.csproj|D:\\Wagdan\\Bank Project\\Bank Project\\frmservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DAC34C6D-F706-4DA2-94AE-4D3D1563406B}|bank projet.csproj|solutionrelative:frmservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DAC34C6D-F706-4DA2-94AE-4D3D1563406B}|bank projet.csproj|d:\\wagdan\\bank project\\bank project\\frmclientstransatctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC34C6D-F706-4DA2-94AE-4D3D1563406B}|bank projet.csproj|solutionrelative:frmclientstransatctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAC34C6D-F706-4DA2-94AE-4D3D1563406B}|bank projet.csproj|d:\\wagdan\\bank project\\bank project\\frmservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAC34C6D-F706-4DA2-94AE-4D3D1563406B}|bank projet.csproj|solutionrelative:frmservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DAC34C6D-F706-4DA2-94AE-4D3D1563406B}|bank projet.csproj|d:\\wagdan\\bank project\\bank project\\frmclientstransatctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAC34C6D-F706-4DA2-94AE-4D3D1563406B}|bank projet.csproj|solutionrelative:frmclientstransatctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAC34C6D-F706-4DA2-94AE-4D3D1563406B}|bank projet.csproj|D:\\Wagdan\\Bank Project\\Bank Project\\frmmangerusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DAC34C6D-F706-4DA2-94AE-4D3D1563406B}|bank projet.csproj|solutionrelative:frmmangerusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DAC34C6D-F706-4DA2-94AE-4D3D1563406B}|bank projet.csproj|d:\\wagdan\\bank project\\bank project\\frmcurrencys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC34C6D-F706-4DA2-94AE-4D3D1563406B}|bank projet.csproj|solutionrelative:frmcurrencys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC34C6D-F706-4DA2-94AE-4D3D1563406B}|bank projet.csproj|d:\\wagdan\\bank project\\bank project\\frmcurrencys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAC34C6D-F706-4DA2-94AE-4D3D1563406B}|bank projet.csproj|solutionrelative:frmcurrencys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC34C6D-F706-4DA2-94AE-4D3D1563406B}|bank projet.csproj|d:\\wagdan\\bank project\\bank project\\frmdatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAC34C6D-F706-4DA2-94AE-4D3D1563406B}|bank projet.csproj|solutionrelative:frmdatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC34C6D-F706-4DA2-94AE-4D3D1563406B}|bank projet.csproj|D:\\Wagdan\\Bank Project\\Bank Project\\frmmangerclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC34C6D-F706-4DA2-94AE-4D3D1563406B}|bank projet.csproj|solutionrelative:frmmangerclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC34C6D-F706-4DA2-94AE-4D3D1563406B}|bank projet.csproj|d:\\wagdan\\bank project\\bank project\\frmmangerclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAC34C6D-F706-4DA2-94AE-4D3D1563406B}|bank projet.csproj|solutionrelative:frmmangerclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DAC34C6D-F706-4DA2-94AE-4D3D1563406B}|bank projet.csproj|D:\\Wagdan\\Bank Project\\Bank Project\\frmmangerusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DAC34C6D-F706-4DA2-94AE-4D3D1563406B}|bank projet.csproj|solutionrelative:frmmangerusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAC34C6D-F706-4DA2-94AE-4D3D1563406B}|bank projet.csproj|D:\\Wagdan\\Bank Project\\Bank Project\\frmmangerclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAC34C6D-F706-4DA2-94AE-4D3D1563406B}|bank projet.csproj|solutionrelative:frmmangerclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DAC34C6D-F706-4DA2-94AE-4D3D1563406B}|bank projet.csproj|D:\\Wagdan\\Bank Project\\Bank Project\\frmmangerusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAC34C6D-F706-4DA2-94AE-4D3D1563406B}|bank projet.csproj|solutionrelative:frmmangerusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC34C6D-F706-4DA2-94AE-4D3D1563406B}|bank projet.csproj|D:\\Wagdan\\Bank Project\\Bank Project\\frmservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC34C6D-F706-4DA2-94AE-4D3D1563406B}|bank projet.csproj|solutionrelative:frmservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC34C6D-F706-4DA2-94AE-4D3D1563406B}|bank projet.csproj|D:\\Wagdan\\Bank Project\\Bank Project\\frmservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAC34C6D-F706-4DA2-94AE-4D3D1563406B}|bank projet.csproj|solutionrelative:frmservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC34C6D-F706-4DA2-94AE-4D3D1563406B}|bank projet.csproj|d:\\wagdan\\bank project\\bank project\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC34C6D-F706-4DA2-94AE-4D3D1563406B}|bank projet.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
@@ -48,10 +72,97 @@
               "RelativeDocumentMoniker": "frmMangerClients.cs",
               "ToolTip": "D:\\Wagdan\\Bank Project\\Bank Project\\frmMangerClients.cs",
               "RelativeToolTip": "frmMangerClients.cs",
-              "ViewState": "AgIAALgAAAAAzszMzEwTwLMAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAKAAAAAgZmZmZuYmwK8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T12:00:53.508Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmClientsTransatctions.cs",
+              "DocumentMoniker": "D:\\Wagdan\\Bank Project\\Bank Project\\frmClientsTransatctions.cs",
+              "RelativeDocumentMoniker": "frmClientsTransatctions.cs",
+              "ToolTip": "D:\\Wagdan\\Bank Project\\Bank Project\\frmClientsTransatctions.cs",
+              "RelativeToolTip": "frmClientsTransatctions.cs",
+              "ViewState": "AgIAAMIAAAAAmZmZmVklwMgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:34:21.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmClientsTransatctions.cs [Design]",
+              "DocumentMoniker": "D:\\Wagdan\\Bank Project\\Bank Project\\frmClientsTransatctions.cs",
+              "RelativeDocumentMoniker": "frmClientsTransatctions.cs",
+              "ToolTip": "D:\\Wagdan\\Bank Project\\Bank Project\\frmClientsTransatctions.cs [Design]",
+              "RelativeToolTip": "frmClientsTransatctions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:34:16.456Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmCurrencys.cs",
+              "DocumentMoniker": "D:\\Wagdan\\Bank Project\\Bank Project\\frmCurrencys.cs",
+              "RelativeDocumentMoniker": "frmCurrencys.cs",
+              "ToolTip": "D:\\Wagdan\\Bank Project\\Bank Project\\frmCurrencys.cs",
+              "RelativeToolTip": "frmCurrencys.cs",
+              "ViewState": "AgIAAHwAAAAANDMzM/MqwIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:34:06.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmCurrencys.cs [Design]",
+              "DocumentMoniker": "D:\\Wagdan\\Bank Project\\Bank Project\\frmCurrencys.cs",
+              "RelativeDocumentMoniker": "frmCurrencys.cs",
+              "ToolTip": "D:\\Wagdan\\Bank Project\\Bank Project\\frmCurrencys.cs [Design]",
+              "RelativeToolTip": "frmCurrencys.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:33:55.873Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmDataLog.cs [Design]",
+              "DocumentMoniker": "D:\\Wagdan\\Bank Project\\Bank Project\\frmDataLog.cs",
+              "RelativeDocumentMoniker": "frmDataLog.cs",
+              "ToolTip": "D:\\Wagdan\\Bank Project\\Bank Project\\frmDataLog.cs [Design]",
+              "RelativeToolTip": "frmDataLog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:33:53.613Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Wagdan\\Bank Project\\Bank Project\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "D:\\Wagdan\\Bank Project\\Bank Project\\frmLogin.cs [Design]",
+              "RelativeToolTip": "frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:29:31.563Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmMangerClients.cs [Design]",
+              "DocumentMoniker": "D:\\Wagdan\\Bank Project\\Bank Project\\frmMangerClients.cs",
+              "RelativeDocumentMoniker": "frmMangerClients.cs",
+              "ToolTip": "D:\\Wagdan\\Bank Project\\Bank Project\\frmMangerClients.cs [Design]",
+              "RelativeToolTip": "frmMangerClients.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:33:30.233Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Bookmark",
@@ -67,20 +178,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "frmMangerUsers.cs",
               "DocumentMoniker": "D:\\Wagdan\\Bank Project\\Bank Project\\frmMangerUsers.cs",
               "RelativeDocumentMoniker": "frmMangerUsers.cs",
               "ToolTip": "D:\\Wagdan\\Bank Project\\Bank Project\\frmMangerUsers.cs",
               "RelativeToolTip": "frmMangerUsers.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBcAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T13:43:33.501Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "frmMangerUsers.cs [Design]",
               "DocumentMoniker": "D:\\Wagdan\\Bank Project\\Bank Project\\frmMangerUsers.cs",
               "RelativeDocumentMoniker": "frmMangerUsers.cs",
@@ -92,20 +203,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "frmServices.cs",
               "DocumentMoniker": "D:\\Wagdan\\Bank Project\\Bank Project\\frmServices.cs",
               "RelativeDocumentMoniker": "frmServices.cs",
               "ToolTip": "D:\\Wagdan\\Bank Project\\Bank Project\\frmServices.cs",
               "RelativeToolTip": "frmServices.cs",
-              "ViewState": "AgIAADEAAADczMzMzIwkwEEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAMzMzMzMrwAUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T13:34:09.233Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "frmServices.cs [Design]",
               "DocumentMoniker": "D:\\Wagdan\\Bank Project\\Bank Project\\frmServices.cs",
               "RelativeDocumentMoniker": "frmServices.cs",
@@ -117,28 +228,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
               "Title": "frmLogin.cs",
               "DocumentMoniker": "D:\\Wagdan\\Bank Project\\Bank Project\\frmLogin.cs",
               "RelativeDocumentMoniker": "frmLogin.cs",
               "ToolTip": "D:\\Wagdan\\Bank Project\\Bank Project\\frmLogin.cs",
               "RelativeToolTip": "frmLogin.cs",
-              "ViewState": "AgIAABAAAADgMjMzMzMgwBUAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAADgMjMzMzMgwB8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T13:29:36.079Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmLogin.cs [Design]",
-              "DocumentMoniker": "D:\\Wagdan\\Bank Project\\Bank Project\\frmLogin.cs",
-              "RelativeDocumentMoniker": "frmLogin.cs",
-              "ToolTip": "D:\\Wagdan\\Bank Project\\Bank Project\\frmLogin.cs [Design]",
-              "RelativeToolTip": "frmLogin.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T13:29:31.563Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }

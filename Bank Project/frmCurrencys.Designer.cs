@@ -35,7 +35,6 @@
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
-            this.btnGoBack = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.txtFiliterValue = new System.Windows.Forms.TextBox();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
@@ -105,7 +104,6 @@
             // 
             // tabPage1
             // 
-            this.tabPage1.Controls.Add(this.btnGoBack);
             this.tabPage1.Controls.Add(this.label1);
             this.tabPage1.Controls.Add(this.txtFiliterValue);
             this.tabPage1.Controls.Add(this.dataGridView1);
@@ -116,19 +114,6 @@
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Currencies";
             this.tabPage1.UseVisualStyleBackColor = true;
-            // 
-            // btnGoBack
-            // 
-            this.btnGoBack.BackColor = System.Drawing.Color.SteelBlue;
-            this.btnGoBack.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnGoBack.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.btnGoBack.Location = new System.Drawing.Point(18, 412);
-            this.btnGoBack.Name = "btnGoBack";
-            this.btnGoBack.Size = new System.Drawing.Size(139, 37);
-            this.btnGoBack.TabIndex = 34;
-            this.btnGoBack.Text = "Go Back";
-            this.btnGoBack.UseVisualStyleBackColor = false;
-            this.btnGoBack.Click += new System.EventHandler(this.btnGoBack_Click);
             // 
             // label1
             // 
@@ -683,6 +668,5 @@
         private System.Windows.Forms.Button btnConvert;
         private System.Windows.Forms.Label label29;
         private System.Windows.Forms.NumericUpDown numericUpDown2;
-        private System.Windows.Forms.Button btnGoBack;
     }
 }

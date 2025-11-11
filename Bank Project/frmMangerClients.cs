@@ -175,13 +175,6 @@ namespace bank_projet
             }
         }
 
-        private void BtnBack_Click_2(object sender, EventArgs e)
-        {
-            Form frmServices = new frmServices();
-            frmServices.Show();
-            this.Close();
-        }
-
         private void textFindClientByName_TextChanged(object sender, EventArgs e)
         {
             dgvLastClient.DataSource = Client_CodingMain.SearcehByName(textFindClientByName.Text);

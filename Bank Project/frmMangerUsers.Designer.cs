@@ -53,7 +53,6 @@
             this.btnUpdate = new System.Windows.Forms.Button();
             this.btnAddUser = new System.Windows.Forms.Button();
             this.btnDataLogin = new System.Windows.Forms.Button();
-            this.btnGoBack = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
@@ -307,19 +306,6 @@
             this.btnDataLogin.UseVisualStyleBackColor = false;
             this.btnDataLogin.Click += new System.EventHandler(this.btnDataLogin_Click);
             // 
-            // btnGoBack
-            // 
-            this.btnGoBack.BackColor = System.Drawing.Color.Transparent;
-            this.btnGoBack.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnGoBack.ForeColor = System.Drawing.Color.Blue;
-            this.btnGoBack.Location = new System.Drawing.Point(430, 565);
-            this.btnGoBack.Name = "btnGoBack";
-            this.btnGoBack.Size = new System.Drawing.Size(138, 36);
-            this.btnGoBack.TabIndex = 17;
-            this.btnGoBack.Text = "Go Back";
-            this.btnGoBack.UseVisualStyleBackColor = false;
-            this.btnGoBack.Click += new System.EventHandler(this.btnGoBack_Click);
-            // 
             // label3
             // 
             this.label3.AutoSize = true;
@@ -347,7 +333,6 @@
             this.ClientSize = new System.Drawing.Size(739, 606);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.btnGoBack);
             this.Controls.Add(this.btnDataLogin);
             this.Controls.Add(this.btnReset);
             this.Controls.Add(this.btnDelete);
@@ -396,7 +381,6 @@
         private System.Windows.Forms.Button btnUpdate;
         private System.Windows.Forms.Button btnAddUser;
         private System.Windows.Forms.Button btnDataLogin;
-        private System.Windows.Forms.Button btnGoBack;
         private System.Windows.Forms.DataGridView dgvListUser;
         private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
         private System.Windows.Forms.ToolStripMenuItem updateToolStripMenuItem;
