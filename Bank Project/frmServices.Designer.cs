@@ -41,7 +41,6 @@
             this.btnManageUsers = new System.Windows.Forms.Button();
             this.btnCurrencyExchange = new System.Windows.Forms.Button();
             this.imageList1 = new System.Windows.Forms.ImageList(this.components);
-            this.btnGoBack = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // panel1
@@ -160,26 +159,12 @@
             this.imageList1.TransparentColor = System.Drawing.Color.Transparent;
             this.imageList1.Images.SetKeyName(0, "close.png");
             // 
-            // btnGoBack
-            // 
-            this.btnGoBack.BackColor = System.Drawing.Color.Transparent;
-            this.btnGoBack.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnGoBack.ForeColor = System.Drawing.Color.Blue;
-            this.btnGoBack.Location = new System.Drawing.Point(12, 406);
-            this.btnGoBack.Name = "btnGoBack";
-            this.btnGoBack.Size = new System.Drawing.Size(138, 36);
-            this.btnGoBack.TabIndex = 18;
-            this.btnGoBack.Text = "Go Back";
-            this.btnGoBack.UseVisualStyleBackColor = false;
-            this.btnGoBack.Click += new System.EventHandler(this.btnGoBack_Click);
-            // 
             // frmServices
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.ClientSize = new System.Drawing.Size(668, 450);
-            this.Controls.Add(this.btnGoBack);
             this.Controls.Add(this.btnCurrencyExchange);
             this.Controls.Add(this.btnManageUsers);
             this.Controls.Add(this.btnClientsTransction);
@@ -211,7 +196,6 @@
         private System.Windows.Forms.Button btnManageUsers;
         private System.Windows.Forms.Button btnCurrencyExchange;
         private System.Windows.Forms.ImageList imageList1;
-        private System.Windows.Forms.Button btnGoBack;
     }
 }
 

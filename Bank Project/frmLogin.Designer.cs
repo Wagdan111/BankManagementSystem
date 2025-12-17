@@ -49,7 +49,6 @@
             this.label1.Size = new System.Drawing.Size(131, 31);
             this.label1.TabIndex = 0;
             this.label1.Text = "password";
-            
             // 
             // btnLogin
             // 
@@ -127,7 +126,6 @@
             this.txtPassword.TabStop = false;
             this.txtPassword.UseSystemPasswordChar = true;
             this.txtPassword.WordWrap = false;
-        
             // 
             // frmLogin
             // 
@@ -143,7 +141,7 @@
             this.Controls.Add(this.btnLogin);
             this.Controls.Add(this.label1);
             this.Name = "frmLogin";
-            this.Text = "System Bank Project";
+            this.Text = "Login";
             this.Load += new System.EventHandler(this.frmLogin_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

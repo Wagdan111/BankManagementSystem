@@ -151,6 +151,7 @@
             this.txtFiliterValue.Name = "txtFiliterValue";
             this.txtFiliterValue.Size = new System.Drawing.Size(170, 36);
             this.txtFiliterValue.TabIndex = 1;
+            this.txtFiliterValue.TextChanged += new System.EventHandler(this.txtFiliterValue_TextChanged);
             // 
             // txtUserName
             // 

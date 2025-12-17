@@ -128,7 +128,7 @@
             this.lbCurrentUser.Name = "lbCurrentUser";
             this.lbCurrentUser.Size = new System.Drawing.Size(100, 19);
             this.lbCurrentUser.TabIndex = 32;
-            this.lbCurrentUser.Text = "Password By";
+            this.lbCurrentUser.Text = "Current User";
             // 
             // lbPassword
             // 

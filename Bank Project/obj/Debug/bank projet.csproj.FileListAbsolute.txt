@@ -82,3 +82,24 @@ D:\Wagdan\Bank Project\Bank Project\obj\Debug\bank projet.csproj.CoreCompileInpu
 D:\Wagdan\Bank Project\Bank Project\obj\Debug\bank pro.BC40FD72.Up2Date
 D:\Wagdan\Bank Project\Bank Project\obj\Debug\bank projet.exe
 D:\Wagdan\Bank Project\Bank Project\obj\Debug\bank projet.pdb
+D:\Wagdan\programming\Projet Wagdan\Bank Project\Bank Project\bin\Debug\bank projet.exe.config
+D:\Wagdan\programming\Projet Wagdan\Bank Project\Bank Project\bin\Debug\bank projet.exe
+D:\Wagdan\programming\Projet Wagdan\Bank Project\Bank Project\bin\Debug\bank projet.pdb
+D:\Wagdan\programming\Projet Wagdan\Bank Project\Bank Project\bin\Debug\BusinessLogic.dll
+D:\Wagdan\programming\Projet Wagdan\Bank Project\Bank Project\bin\Debug\DataAccess.dll
+D:\Wagdan\programming\Projet Wagdan\Bank Project\Bank Project\bin\Debug\BusinessLogic.pdb
+D:\Wagdan\programming\Projet Wagdan\Bank Project\Bank Project\bin\Debug\DataAccess.pdb
+D:\Wagdan\programming\Projet Wagdan\Bank Project\Bank Project\obj\Debug\bank projet.csproj.AssemblyReference.cache
+D:\Wagdan\programming\Projet Wagdan\Bank Project\Bank Project\obj\Debug\bank_projet.frmClientsTransatctions.resources
+D:\Wagdan\programming\Projet Wagdan\Bank Project\Bank Project\obj\Debug\bank_projet.frmCurrencys.resources
+D:\Wagdan\programming\Projet Wagdan\Bank Project\Bank Project\obj\Debug\bank_projet.frmDataLog.resources
+D:\Wagdan\programming\Projet Wagdan\Bank Project\Bank Project\obj\Debug\bank_projet.frmServices.resources
+D:\Wagdan\programming\Projet Wagdan\Bank Project\Bank Project\obj\Debug\bank_projet.frmLogin.resources
+D:\Wagdan\programming\Projet Wagdan\Bank Project\Bank Project\obj\Debug\bank_projet.frmMangerClients.resources
+D:\Wagdan\programming\Projet Wagdan\Bank Project\Bank Project\obj\Debug\bank_projet.frmMangerUsers.resources
+D:\Wagdan\programming\Projet Wagdan\Bank Project\Bank Project\obj\Debug\bank_projet.Properties.Resources.resources
+D:\Wagdan\programming\Projet Wagdan\Bank Project\Bank Project\obj\Debug\bank projet.csproj.GenerateResource.cache
+D:\Wagdan\programming\Projet Wagdan\Bank Project\Bank Project\obj\Debug\bank projet.csproj.CoreCompileInputs.cache
+D:\Wagdan\programming\Projet Wagdan\Bank Project\Bank Project\obj\Debug\bank pro.BC40FD72.Up2Date
+D:\Wagdan\programming\Projet Wagdan\Bank Project\Bank Project\obj\Debug\bank projet.exe
+D:\Wagdan\programming\Projet Wagdan\Bank Project\Bank Project\obj\Debug\bank projet.pdb

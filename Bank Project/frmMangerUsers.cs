@@ -144,5 +144,9 @@ namespace bank_projet
             dgvListUser.DataSource = clsUsersBL.ShowLastUsers();
         }
 
+        private void txtFiliterValue_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

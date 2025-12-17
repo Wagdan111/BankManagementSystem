@@ -6,16 +6,19 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 namespace bank_projet
 {
     public partial class frmServices : Form
     {
-        public frmServices()
+        private frmLogin frmLogin;
+        public frmServices(frmLogin frmLogin)
         {
             InitializeComponent();
             this.FormClosing += frmServices_FormClosing;
+            this.frmLogin = frmLogin;
         }
         private void frmServices_Load(object sender, EventArgs e)
         { 
@@ -50,14 +53,9 @@ namespace bank_projet
 
         private void frmServices_FormClosing(object sender, FormClosingEventArgs e)
         {
-            UserInfo.frmLogin.Close();
+            frmLogin.Close();
         }
 
-        private void btnGoBack_Click(object sender, EventArgs e)
-        {
-            UserInfo.frmLogin.Show();
-            this.Close();
-            
-        }
+          
     }
 }

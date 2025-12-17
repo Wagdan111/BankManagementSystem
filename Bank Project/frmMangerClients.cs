@@ -193,8 +193,8 @@ namespace bank_projet
         private void Manger_Clients_Load(object sender, EventArgs e)
         {
             FillCombobox();
-            lbPassword.Text = UserInfo.UserName;
-            lbCurrentUser.Text=UserInfo.Password;
+            lbCurrentUser.Text = UserInfo.UserName;
+            lbPassword.Text=UserInfo.Password;
             lbCountClients.Text = Client_CodingMain.CountsClients()+"Client(s) Found";
            ShowClient();
            

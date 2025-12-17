@@ -38,7 +38,7 @@ namespace bank_projet
                     UserInfo.Password = txtPassword.Text;
                     UserInfo.frmLogin = this;
 
-                    Form frmServices = new frmServices();
+                    Form frmServices = new frmServices(this);
                     frmServices.Show();
                     this.Hide();
                      
